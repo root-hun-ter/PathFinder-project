@@ -27,9 +27,9 @@ USER_AGENT = "PathFinder-GUI/1.0 (by RootHunter)"
 
 # Developer/social links (يمكن تعديلها)
 DEV_NAME = "RootHunter"
-GITHUB = "https://github.com/RootHunter"
-FACEBOOK = "https://facebook.com/RootHunter"
-INSTAGRAM = "https://instagram.com/RootHunter"
+GITHUB = "https://github.com/root-hun-ter"
+FACEBOOK = "https://www.facebook.com/roothunter404"
+INSTAGRAM = "https://instagram.com/_root_hunter_"
 
 # ---------- Networking helpers (synchronous, safe GET only) ----------
 session = requests.Session()
