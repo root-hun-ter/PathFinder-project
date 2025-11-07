@@ -50,7 +50,7 @@ This project contains **two versions**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/RootHunter/PathFinder-project.git
+git clone https://github.com/root-hun-ter/PathFinder-project
 cd PathFinder-project
 
 # Install dependencies
@@ -69,12 +69,12 @@ pip install aiohttp tqdm colorama beautifulsoup4
 ### ▶️ Terminal (CLI) Edition
 
 ```bash
-python pathfinder_cli.py https://example.com
+python pathfinder.py https://example.com
 ```
 
 With custom wordlist:
 ```bash
-python pathfinder_cli.py https://target.com -w wordlist.txt -c 20
+python pathfinder.py https://target.com -w wordlist.txt -c 20
 ```
 
 Output:
@@ -106,7 +106,7 @@ results will appear directly inside the graphical window.
 ## 🎨 Screenshot (Preview)
 
 <p align="center">
-  <img src="https://github.com/RootHunter/PathFinder-project/assets/gui-preview.png" width="80%" alt="GUI Preview" />
+  <img src="https://github.com/root-hun-ter/PathFinder-project/assets/gui-preview.png" width="80%" alt="GUI Preview" />
 </p>
 
 ---
@@ -126,10 +126,10 @@ results will appear directly inside the graphical window.
 ## 🧑‍💻 Developer
 
 **By RootHunter**  
-> 🐙 GitHub: [github.com/RootHunter](https://github.com/RootHunter)  
-> 📘 Facebook: [facebook.com/RootHunter](https://facebook.com/RootHunter)  
-> 📷 Instagram: [@roothunter](https://instagram.com/roothunter)  
-> 🐦 X (Twitter): [@RootHunter](https://twitter.com/RootHunter)
+> 🐙 GitHub: [github.com/RootHunter](https://github.com/root-hun-ter)  
+> 📘 Facebook: [facebook.com/RootHunter](https://www.facebook.com/roothunter404)  
+> 📷 Instagram: [@roothunter](https://instagram.com/_root_hunter_)  
+
 
 ---
 
