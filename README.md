@@ -106,7 +106,7 @@ results will appear directly inside the graphical window.
 ## 🎨 Screenshot (Preview)
 
 <p align="center">
-  <img src="https://github.com/root-hun-ter/PathFinder-project/assets/gui-preview.png" width="80%" alt="GUI Preview" />
+  <img src="https://github.com/root-hun-ter/PathFinder-project/gui-preview.png" width="80%" alt="GUI Preview" />
 </p>
 
 ---
