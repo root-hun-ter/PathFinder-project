@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 PathFinder v2.0 (CLI Edition)
-By RootHunter
+By RootHunter / Mr M.Elha
 GitHub: github.com/RootHunter | Facebook: fb.com/RootHunter | Instagram: @roothunter
 """
 
@@ -22,7 +22,8 @@ BANNER = f"""{Fore.CYAN}
 ╔══════════════════════════════════════════════╗
 ║         {Fore.MAGENTA}PathFinder v2.0 by RootHunter{Fore.CYAN}         ║
 ║  {Fore.YELLOW}GitHub:{Fore.WHITE} github.com/root-hun-ter │ IG: @_root_hunter_  ║
-║  {Fore.YELLOW}FB:{Fore.WHITE} fb.com/roothunter404                     ║
+║  {Fore.YELLOW}FB:{Fore.WHITE} fb.com/roothunter404
+  BY MR ELHA                     ║
 ╚══════════════════════════════════════════════╝
 {Style.RESET_ALL}"""
 
