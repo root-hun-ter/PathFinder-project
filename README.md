@@ -1,8 +1,7 @@
 # 🧭 PathFinder-project
 <p align="center">
   <b>Advanced Ethical Path Discovery Tool for Bug Bounty Hunters</b><br>
-  <i>Developed with ❤️ by <a href="https://github.com/RootHunter">RootHunter</a></i>
-</p>
+  <i>Developed with ❤️ by Mr M.Elha
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" />
