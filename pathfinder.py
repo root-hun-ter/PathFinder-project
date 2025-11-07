@@ -21,8 +21,8 @@ init(autoreset=True)
 BANNER = f"""{Fore.CYAN}
 ╔══════════════════════════════════════════════╗
 ║         {Fore.MAGENTA}PathFinder v2.0 by RootHunter{Fore.CYAN}         ║
-║  {Fore.YELLOW}GitHub:{Fore.WHITE} github.com/RootHunter │ IG: @roothunter  ║
-║  {Fore.YELLOW}FB:{Fore.WHITE} fb.com/RootHunter │ X: @RootHunter         ║
+║  {Fore.YELLOW}GitHub:{Fore.WHITE} github.com/root-hun-ter │ IG: @_root_hunter_  ║
+║  {Fore.YELLOW}FB:{Fore.WHITE} fb.com/roothunter404                     ║
 ╚══════════════════════════════════════════════╝
 {Style.RESET_ALL}"""
 
