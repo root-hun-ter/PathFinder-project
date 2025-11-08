@@ -3,7 +3,7 @@
 """
 PathFinder v2.0 (CLI Edition)
 By RootHunter / Mr M.Elha
-GitHub: github.com/RootHunter | Facebook: fb.com/RootHunter | Instagram: @roothunter
+GitHub: github.com/root-hun-ter | Facebook: fb.com/roothunter404 | Instagram: @_root_hunter_
 """
 
 import aiohttp
